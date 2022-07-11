@@ -1,6 +1,6 @@
 ## :black_nib: Notes on misc. topics
 
 ### List of notes-
-    - pom-selenium.md
+- [pom-selenium](notes/pom-selenium.md)
 
 
